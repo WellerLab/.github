@@ -1,4 +1,4 @@
-![sdfadf](Uhealth.jpg)
+![sdfadf](../Uhealth.jpg)
 # Weller Lab, University of Utah School of Dentistry
 
 The Weller Lab (University of Utah SOD) studies rare diseases, viruses, and auto-immune disease. We are particularly interested in the intersections between auto-immune disease and viral / bacterial
